@@ -1,5 +1,3 @@
 # 114_1_DBSD_project
-##color~紅色~
-##name~ Miachle~
-##shape~ Circle~
-##Array ([color] => 紅色 [name] Miachle [shape] = Circle)
+##SID:C112181148
+##name:林秉賢
